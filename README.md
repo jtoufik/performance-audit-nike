@@ -11,7 +11,7 @@ Voor mijn performance audit heb ik de website van Nike getest. https://www.nike.
 ## PageSpeed Insights test. 
 
 Tijdens deze audit heb ik geleerd hoe je een website op performance kan testen en kunnen analyseren wat de redenen zijn van een slome website. 
-Dit heb ik goed onderzocht door me te verdiepen in de verschillende Metrics die PageSpeed aangeeft. 
+Dit heb ik goed onderzocht door me te verdiepen in de verschillende Metrics, voor meer informatie zie mijn [wiki](https://github.com/jtoufik/performance-matters-performance-audit/wiki/Performance-Audit).  
 
 <img width="966" alt="Scherm­afbeelding 2023-04-25 om 15 28 15" src="https://user-images.githubusercontent.com/112856590/234291978-600afd37-b1b0-4064-ba4b-1be0cca93ee7.png">
 
